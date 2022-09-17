@@ -56,11 +56,11 @@ export default function contact() {
           </p>
           <a
             style={{ color: "rgb(121, 89, 0)" }}
-            href="https://www.facebook.com/Suchanuch.28.12.45/"
+            href="https://www.facebook.com/Suchanuch.28.12.45"
             target="_blank"
             rel="noreferrer"
           >
-            https://www.facebook.com/Suchanuch.28.12.45/
+            https://www.facebook.com/Suchanuch.28.12.45
           </a>
           <p className="fw-bold mt-5 " style={{ color: "rgb(51, 51, 46)" }}>
             EMAIL
