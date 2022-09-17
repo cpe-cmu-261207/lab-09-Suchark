@@ -1,5 +1,5 @@
-import Hobby from "../components/hobby";
-import Introduce from "../components/introduce";
+import Hobby from "../components/Hobby";
+import Introduce from "../components/Introduce";
 import Navbar from "../components/Navbar";
 
 export default function Home() {
